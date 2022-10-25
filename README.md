@@ -3,7 +3,6 @@
 [22,27,16,2,18,6]-> Insertion Sort
 
 S1) Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız. 
-
 S2) Big-O gösterimini yapınız.
 
 S3)Time Complexity;
