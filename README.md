@@ -48,7 +48,8 @@ Best case:  [2,6,16,18,22,27]
     
 C4) Dizi sıralandıktan sonra 18 sayısı ortada olduğu için average case kapsamına girer.
 
-C5) 
+C5) İlk dört adım;
+
 Bİrinci adım: [2,3,5,8,7,9,4,15,6]
 
 İkinci adım: [2,3,4,8,7,9,5,15,6]
