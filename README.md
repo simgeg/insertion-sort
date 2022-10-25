@@ -58,4 +58,4 @@ Bİrinci adım: [2,3,5,8,7,9,4,15,6]
     
 Dördüncü adım: [2,3,4,5,6,9,8,15,7] 
 
-www.patika.dev
+patika.dev profilim: https://app.patika.dev/simgeg
